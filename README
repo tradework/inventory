@@ -1,0 +1,12 @@
+Item
+  Name
+  Description
+  Images
+
+InventoryItem
+  Item
+  Quantity
+  Price
+
+Inventory
+  Set<InventoryItem>
